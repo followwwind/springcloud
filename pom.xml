@@ -30,7 +30,7 @@
         <module>config-server</module>
         <module>config-client</module>
         <module>server-zipkin</module>
-        <module>eureka-producer2</module>
+        <module>consul</module>
     </modules>
 
     <dependencies>
